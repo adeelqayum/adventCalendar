@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Advent Calendar
+
+  Created by Adeel Qayum on 10/30/18.
+  Copyright © 2018 Adeel Qayum. All rights reserved.
+*/
+
+"str_testmodelabel"             = "Test Mode";
+
+"str_daywarning"                = "Please click the tiles in chronological order by day";
+
+"str_warning"                   = "Warning";
+
+"str_resetWarning"              = "Are you sure you want to reset?";
+
+"str_reset"                     = "Reset";
+
+"str_cancel"                    = "Cancel";
+
+"str_dayWarning"                = "Please select the days in order";
+
+"str_dismiss"                   = "Dismiss";
+
+"str_christmas"                 = "Christmas";
+
+"str_happyholidays"             = "Happy Holidays!";
+
+"str_welcometoadventcalendar"   = "Welcome to Advent Calendar";
+
+"str_kwanza"                    = "Kwanza";
+
+"str_chanukah"                  = "Chanukah";
+
